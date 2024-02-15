@@ -1,2 +1,2 @@
-# NLP
-This repository contains my course works and personal projects
+# Natural Language processing (NLP)
+This repository contains my course and personal projects
